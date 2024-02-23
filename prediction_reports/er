@@ -1,0 +1,60 @@
+Class er has 182 instances. Which is 0.037 of the test data.
+The model correctly predicted: 132 instances. The class accuracy is: 0.725
+Breakdown of all predictions:
+
+Class en:
+	SG: Amt; PL: Ämter; PRED: Amten
+Class e:
+	SG: Scheltwort; PL: Scheltwörter; PRED: Scheltworte
+	SG: Kaff; PL: Käffer; PRED: Kaffe
+	SG: Wundrand; PL: Wundränder; PRED: Wundrände
+	SG: Schwirrholz; PL: Schwirrhölzer; PRED: Schwirrholze
+	SG: Klemmbrett; PL: Klemmbretter; PRED: Klemmbrette
+	SG: Korn; PL: Körner; PRED: Korne
+	SG: Klageweib; PL: Klageweiber; PRED: Klageweibe
+	SG: Auerrind; PL: Auerrinder; PRED: Auerrinde
+	SG: Kaufmann; PL: Kaufmänner; PRED: Kaufmanne
+	SG: Damoklesschwert; PL: Damoklesschwerter; PRED: Damoklesschwerte
+	SG: Beikraut; PL: Beikräuter; PRED: Beikräute
+	SG: Eindämmungsfeld; PL: Eindämmungsfelder; PRED: Erdämmungsfelde
+	SG: Lagewort; PL: Lagewörter; PRED: Lageworte
+	SG: Gespenst; PL: Gespenster; PRED: Gespenste
+	SG: Reisfeld; PL: Reisfelder; PRED: Reisfelde
+	SG: Sommerloch; PL: Sommerlöcher; PRED: Sommerloche
+	SG: Hundsfott; PL: Hundsfötter; PRED: Hundsfotte
+	SG: Stadtrand; PL: Stadtränder; PRED: Stadtrände
+	SG: Kindergartenkind; PL: Kindergartenkinder; PRED: Kindergärtenkinde
+	SG: Lamm; PL: Lämmer; PRED: Lamme
+	SG: Scheißkind; PL: Scheißkinder; PRED: Scheißkinde
+	SG: Hartholz; PL: Harthölzer; PRED: Hartholze
+	SG: Armband; PL: Armbänder; PRED: Armbande
+	SG: Plusenergiehaus; PL: Plusenergiehäuser; PRED: Plusenergiehause
+	SG: Spital; PL: Spitäler; PRED: Spitale
+	SG: Industrieland; PL: Industrieländer; PRED: Industrielande
+	SG: Geist; PL: Geister; PRED: Geiste
+	SG: Tuwort; PL: Tuwörter; PRED: Tuworte
+	SG: Skalarfeld; PL: Skalarfelder; PRED: Skalarfelde
+	SG: Abc-Buch; PL: Abc-Bücher; PRED: Abche
+	SG: Astloch; PL: Astlöcher; PRED: Astloche
+	SG: Wiewort; PL: Wiewörter; PRED: Wieworte
+	SG: Unterleib; PL: Unterleiber; PRED: Unterleibe
+	SG: Todestal; PL: Todestäler; PRED: Todestale
+Class null:
+	SG: Weidmann; PL: Weidmänner; PRED: Weidmannen
+	SG: Gras; PL: Gräser; PRED: Gras
+	SG: Eismann; PL: Eismänner; PRED: Eismannen
+Class er:
+	SG: Laubwald; PL: Laubwälder; PRED: Laubwalder
+	SG: Badehaus; PL: Badehäuser; PRED: Baktehäuser
+	SG: Postfach; PL: Postfächer; PRED: Postfacher
+	SG: Abbruchhaus; PL: Abbruchhäuser; PRED: Abbrüchhäuser
+	SG: Grundbuch; PL: Grundbücher; PRED: Gründbücher
+	SG: Brauhaus; PL: Brauhäuser; PRED: Brauhauser
+Class s:
+	SG: Gemüt; PL: Gemüter; PRED: Gemüts
+	SG: Brauchtum; PL: Brauchtümer; PRED: Brauchtums
+	SG: Bistum; PL: Bistümer; PRED: Bistums
+Class other:
+	SG: Science-Fiction-Buch; PL: Science-Fiction-Bücher; PRED: Schiencht-Buchstabe
+	SG: Einfamilienwohnhaus; PL: Einfamilienwohnhäuser; PRED: Einfamilienwohnhäusche
+	SG: Nachbarhaus; PL: Nachbarhäuser; PRED: Nachbarn

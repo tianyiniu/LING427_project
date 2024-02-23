@@ -1,0 +1,144 @@
+Class s has 235 instances. Which is 0.048 of the test data.
+The model correctly predicted: 101 instances. The class accuracy is: 0.43
+Breakdown of all predictions:
+
+Class en:
+	SG: Code; PL: Codes; PRED: Coden
+	SG: Junkie; PL: Junkies; PRED: Junkien
+	SG: Concorde; PL: Concordes; PRED: Concorden
+	SG: Queue; PL: Queues; PRED: Queuen
+	SG: Portemonnaie; PL: Portemonnaies; PRED: Portemonnaien
+	SG: Bagel; PL: Bagels; PRED: Bageln
+	SG: Kommodore; PL: Kommodores; PRED: Kommodoren
+	SG: Veggie; PL: Veggies; PRED: Veggien
+	SG: Lebewohl; PL: Lebewohls; PRED: Lebewohlen
+	SG: Duckface; PL: Duckfaces; PRED: Duckfackfacken
+	SG: Aborigine; PL: Aborigines; PRED: Aboriginen
+	SG: Ade; PL: Ades; PRED: Aden
+	SG: Salatbar; PL: Salatbars; PRED: Salatbarn
+	SG: Hippie; PL: Hippies; PRED: Hippien
+	SG: Karree; PL: Karrees; PRED: Karreen
+	SG: Tee; PL: Tees; PRED: Teen
+	SG: Kode; PL: Kodes; PRED: Koden
+	SG: Spot; PL: Spots; PRED: Spoten
+	SG: Exposee; PL: Exposees; PRED: Exposeen
+	SG: Toast; PL: Toasts; PRED: Toaten
+	SG: Brownie; PL: Brownies; PRED: Brownien
+	SG: Dragée; PL: Dragées; PRED: Dragdebaeden
+	SG: Zinsswap; PL: Zinsswaps; PRED: Zinswapen
+	SG: Aspie; PL: Aspies; PRED: Aspien
+	SG: Deadline; PL: Deadlines; PRED: Deadlinen
+	SG: Accessoire; PL: Accessoires; PRED: Accessoiren
+	SG: Freizeitpark; PL: Freizeitparks; PRED: Freizeitparken
+	SG: Boulevard; PL: Boulevards; PRED: Boulevarden
+	SG: Klischee; PL: Klischees; PRED: Klischen
+	SG: Messie; PL: Messies; PRED: Messien
+	SG: Depot; PL: Depots; PRED: Depoten
+	SG: Screencast; PL: Screencasts; PRED: Schreencasten
+Class e:
+	SG: Reling; PL: Relings; PRED: Relinge
+	SG: Kat; PL: Kats; PRED: Katate
+	SG: Pantheon; PL: Pantheons; PRED: Pantheone
+	SG: Kuvert; PL: Kuverts; PRED: Kuverte
+	SG: Wrack; PL: Wracks; PRED: Wranden
+	SG: Easteregg; PL: Eastereggs; PRED: Easteregge
+	SG: Altrosa; PL: Altrosas; PRED: Altrosae
+	SG: Riff; PL: Riffs; PRED: Riffe
+	SG: Generalstreik; PL: Generalstreiks; PRED: Generalstreike
+	SG: Nationalpark; PL: Nationalparks; PRED: Nationalparke
+	SG: Deck; PL: Decks; PRED: Decke
+	SG: Panel; PL: Panels; PRED: Panele
+	SG: Etablissement; PL: Etablissements; PRED: Etablissemente
+	SG: Hotdog; PL: Hotdogs; PRED: Hotdoge
+	SG: Tamtam; PL: Tamtams; PRED: Tamtame
+	SG: Teamwork; PL: Teamworks; PRED: Teamworke
+	SG: Jein; PL: Jeins; PRED: Jeinane
+	SG: Lifehack; PL: Lifehacks; PRED: Lifehacke
+	SG: Geek; PL: Geeks; PRED: Geeke
+	SG: Talk; PL: Talks; PRED: Talke
+	SG: Hurrikan; PL: Hurrikans; PRED: Hurrikane
+	SG: Filmstar; PL: Filmstars; PRED: Filmstare
+	SG: Labor; PL: Labors; PRED: Labore
+	SG: Back; PL: Backs; PRED: Backs
+	SG: Bonvivant; PL: Bonvivants; PRED: Bonvinte
+	SG: Moslem; PL: Moslems; PRED: Mosleme
+	SG: Champignon; PL: Champignons; PRED: Champigignone
+	SG: Töff; PL: Töffs; PRED: Töffe
+	SG: Golfklub; PL: Golfklubs; PRED: Golfklübe
+	SG: Tusch; PL: Tuschs; PRED: Tusche
+	SG: Elektrogrill; PL: Elektrogrills; PRED: Elektrogrille
+	SG: Tempolimit; PL: Tempolimits; PRED: Tempolimite
+	SG: Girl; PL: Girls; PRED: Girle
+	SG: Ypsilon; PL: Ypsilons; PRED: Öpsilone
+	SG: Leck; PL: Lecks; PRED: Lecke
+	SG: Schiffsheck; PL: Schiffshecks; PRED: Schiffshecke
+	SG: One-Night-Stand; PL: One-Night-Stands; PRED: One-Not-Stände
+	SG: Camp; PL: Camps; PRED: Campe
+	SG: Hotelier; PL: Hoteliers; PRED: Hoteliere
+	SG: Peloton; PL: Pelotons; PRED: Pelotone
+	SG: Scheich; PL: Scheichs; PRED: Scheiche
+	SG: Bonsai; PL: Bonsais; PRED: Bonsaie
+	SG: Underdog; PL: Underdogs; PRED: Undoge
+	SG: Hosting; PL: Hostings; PRED: Hostinge
+	SG: Caravan; PL: Caravans; PRED: Caravane
+Class null:
+	SG: Isolani; PL: Isolanis; PRED: Isolanien
+	SG: Alinea; PL: Alineas; PRED: Alineea
+	SG: Akkordeon; PL: Akkordeons; PRED: Akkordeonen
+	SG: Halleluja; PL: Hallelujas; PRED: Halleluqama
+	SG: Askari; PL: Askaris; PRED: Askari
+	SG: Fundi; PL: Fundis; PRED: Fundi
+	SG: Dossier; PL: Dossiers; PRED: Dossier
+	SG: Muffin; PL: Muffins; PRED: Muffinnen
+	SG: native Speaker; PL: native Speakers; PRED: Kanativer
+	SG: Nazi; PL: Nazis; PRED: Nazi
+	SG: Motel; PL: Motels; PRED: Motel
+	SG: Tupel; PL: Tupels; PRED: Tupel
+	SG: Mokassin; PL: Mokassins; PRED: Mokassinnen
+	SG: Hosianna; PL: Hosiannas; PRED: Hosianna
+	SG: Bazi; PL: Bazis; PRED: Bazi
+	SG: Konvoi; PL: Konvois; PRED: Konvokai
+	SG: Twen; PL: Twens; PRED: Twen
+	SG: Alpaka; PL: Alpakas; PRED: Alpaka
+	SG: Ninja; PL: Ninjas; PRED: Ninja
+	SG: Native Speaker; PL: Native Speakers; PRED: Native Speaker
+	SG: Heia; PL: Heias; PRED: Heia
+	SG: Haschee; PL: Haschees; PRED: Haschee
+Class er:
+	SG: Band; PL: Bands; PRED: Bänder
+	SG: Patchwork; PL: Patchworks; PRED: Patchwörker
+Class s:
+	SG: Komponententest; PL: Komponententests; PRED: Komponentests
+	SG: Zucchini; PL: Zucchinis; PRED: Zuckuchinis
+	SG: Deo; PL: Deos; PRED: Deodeos
+	SG: Nazi-Jargon; PL: Nazi-Jargons; PRED: Nazi-Chor-Chorgons
+Class other:
+	SG: Notebook; PL: Notebooks; PRED: Noteboote
+	SG: Bistro; PL: Bistros; PRED: Bisten
+	SG: Plazenta; PL: Plazentas; PRED: Plazenten
+	SG: Pluraletantum; PL: Pluraletantums; PRED: Pluraletantums
+	SG: Tunnel; PL: Tunnels; PRED: Tunnen
+	SG: GIF; PL: GIFs; PRED: Gotter
+	SG: Bijou; PL: Bijous; PRED: Bijous
+	SG: DVD; PL: DVDs; PRED: Doppelspan
+	SG: native speaker; PL: native speakers; PRED: Konstenition-Spealeide-Sp
+	SG: Come-back; PL: Come-backs; PRED: Come-Ks
+	SG: Uschanka; PL: Uschankas; PRED: Aschinken
+	SG: Kozi; PL: Kozis; PRED: Kohlen
+	SG: Zwetschgendatschi; PL: Zwetschgendatschis; PRED: Zwetschgendatschisse
+	SG: Mama; PL: Mamas; PRED: Mamen
+	SG: Litschi; PL: Litschis; PRED: Litschisse
+	SG: Croissant; PL: Croissants; PRED: Cronsuna
+	SG: Indigo; PL: Indigos; PRED: Indis
+	SG: Attaché; PL: Attachés; PRED: Attachtes
+	SG: Mum; PL: Mums; PRED: Mangelbeeren
+	SG: Iota; PL: Iotas; PRED: Ioten
+	SG: Pyjama; PL: Pyjamas; PRED: Pypamame
+	SG: Eklat; PL: Eklats; PRED: Eklasmen
+	SG: Radiergummi; PL: Radiergummis; PRED: Radiergümmelungen
+	SG: Airbag; PL: Airbags; PRED: Akkane
+	SG: Gorilla; PL: Gorillas; PRED: Gorillen
+	SG: Tutorial; PL: Tutorials; PRED: Tutorialien
+	SG: LED; PL: LEDs; PRED: Matherauthrangen
+	SG: Chapeau; PL: Chapeaus; PRED: Chameauta
+	SG: Pizza; PL: Pizzas; PRED: Pizzen

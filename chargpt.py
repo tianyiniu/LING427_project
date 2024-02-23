@@ -14,6 +14,8 @@ from mingpt.trainer import Trainer
 from mingpt.utils import set_seed, setup_logging, CfgNode as CN
 
 # -----------------------------------------------------------------------------
+INPUT_FILE = "data/gpt_train.txt"
+# -----------------------------------------------------------------------------
 
 def get_config():
 
@@ -47,7 +49,7 @@ class CharDataset(Dataset):
     @staticmethod
     def get_default_config():
         C = CN()
-        C.block_size = 128
+        C.block_size = 64 # TODO changed from 128 -> 64
         return C
 
     def __init__(self, config, data):
@@ -93,7 +95,7 @@ if __name__ == '__main__':
     set_seed(config.system.seed)
 
     # construct the training dataset
-    text = open('input.txt', 'r').read() # don't worry we won't run out of file handles
+    text = open(INPUT_FILE, 'r').read() # don't worry we won't run out of file handles
     train_dataset = CharDataset(config.data, text)
 
     # construct the model
@@ -110,15 +112,14 @@ if __name__ == '__main__':
         if trainer.iter_num % 100 == 0: # TODO changed from 10 to 100
             print(f"iter_dt {trainer.iter_dt * 1000:.2f}ms; iter {trainer.iter_num}: train loss {trainer.loss.item():.5f}")
 
-        if trainer.iter_num % 2500 == 0: # TODO changed from 500 to 1000
+        if trainer.iter_num % 1000 == 0: # TODO changed from 500 to 1000
             # evaluate both the train and test score
             model.eval()
             with torch.no_grad():
                 # sample from the model...
-                #context = "O God, O God!"
-                context = "Zopf-" # Zopf-Zöpfe
+                context = "Zopf:" # Zopf-Zöpfe
                 x = torch.tensor([train_dataset.stoi[s] for s in context], dtype=torch.long)[None,...].to(trainer.device)
-                # TODO changed 500 to 100, top_k from 10 to 3
+                # TODO changed 500 -> 100, top_k from 10 -> 3
                 y = model.generate(x, 100, temperature=1.0, do_sample=True, top_k=3)[0]
                 completion = ''.join([train_dataset.itos[int(i)] for i in y])
                 print(completion)

@@ -1,0 +1,70 @@
+Class other has 97 instances. Which is 0.02 of the test data.
+The model correctly predicted: 37 instances. The class accuracy is: 0.381
+Breakdown of all predictions:
+
+Class en:
+	SG: Zaddik; PL: Zaddikim; PRED: Zaddiken
+	SG: Röntgenspektrum; PL: Röntgenspektren; PRED: Röntgenspektrumen
+	SG: Anwendungsspektrum; PL: Anwendungsspektren; PRED: Anwendungsspektrumen
+	SG: Adverb; PL: Adverbien; PRED: Adverben
+	SG: Pharmazeutik; PL: Pharmazeutika; PRED: Pharmaniken
+Class e:
+	SG: Tempus; PL: Tempora; PRED: Tempusse
+	SG: Textil; PL: Textilien; PRED: Textile
+	SG: Zentrum; PL: Zentren; PRED: Zentrume
+	SG: Kleinod; PL: Kleinodien; PRED: Kleinode
+	SG: Bütterken; PL: Bütterkes; PRED: Bütterkenne
+	SG: Codex; PL: Codices; PRED: Codexe
+	SG: Psychopharmakon; PL: Psychopharmaka; PRED: Psychopharmakone
+	SG: Nationalepos; PL: Nationalepen; PRED: Nationaleposse
+	SG: Ranch; PL: Ranches; PRED: Ranche
+	SG: Zinnmineral; PL: Zinnmineralien; PRED: Zinnminerale
+Class null:
+	SG: Bocher; PL: Bocherim; PRED: Becher
+	SG: Hapaxlegomenon; PL: Hapaxlegomena; PRED: Hapaxlegomen
+	SG: Korona; PL: Koronen; PRED: Korona
+	SG: Antioxidans; PL: Antioxidantien; PRED: Antioxidans
+	SG: Lexikon; PL: Lexika; PRED: Lexikonen
+	SG: Uterus; PL: Uteri; PRED: Uteris
+	SG: Diskussionsforum; PL: Diskussionsforen; PRED: Diskussionsforum
+	SG: Terrarium; PL: Terrarien; PRED: Terrarram
+	SG: Kosmos; PL: Kosmen; PRED: Kosmos
+Class er:
+	SG: Freizeitzentrum; PL: Freizeitzentren; PRED: Freizeitentrümer
+	SG: Hellgelb; PL: Hellgelb(s); PRED: Hellgelber
+Class s:
+	SG: Benutzerkonto; PL: Benutzerkonten; PRED: Benutzerkontos
+	SG: Policinello; PL: Policinelli; PRED: Policinellos
+	SG: Dunkelgelb; PL: Dunkelgelb(s); PRED: Dunkelgelbs
+	SG: Kommando; PL: Kommanden; PRED: Kommandos
+	SG: Tundra; PL: Tundren; PRED: Tundras
+	SG: Cherub; PL: Cherubinen; PRED: Cherubs
+	SG: Lady; PL: Ladies; PRED: Ladys
+	SG: Pluraletantum; PL: Pluraliatanta; PRED: Pluraletantums
+	SG: Index; PL: Indizes; PRED: Indexs
+	SG: Kommando; PL: Kommanda; PRED: Kommandos
+	SG: Tombola; PL: Tombolen; PRED: Tombolas
+	SG: Pharmakon; PL: Pharmaka; PRED: Pharmakons
+Class other:
+	SG: Kopulativkompositum; PL: Kopulativkompositen; PRED: Kopulativkomposita
+	SG: Triregnum; PL: Triregnen; PRED: Triregner
+	SG: Diaphragma; PL: Diaphragmen; PRED: Diaphragges
+	SG: Apiarium; PL: Apiarien; PRED: Apide
+	SG: Beschichtungsmaterial; PL: Beschichtungsmaterialien; PRED: Beschichtungsmateria
+	SG: Basilikum; PL: Basiliken; PRED: Basilika
+	SG: Individuum; PL: Individuen; PRED: Individen
+	SG: Monopodium; PL: Monopodien; PRED: Monopodyphosphatien
+	SG: Vakuum; PL: Vakuen; PRED: Vakua
+	SG: Determinativkompositum; PL: Determinativkompositen; PRED: Determinativkomposita
+	SG: Neidbau; PL: Neidbauten; PRED: Neidbauteilneiden
+	SG: Fellatio; PL: Fellationes; PRED: Fellationen
+	SG: Perikambium; PL: Perikambien; PRED: Perikambila
+	SG: Äquinoktium; PL: Äquinoktien; PRED: Äquinokti
+	SG: Antihistaminikum; PL: Antihistaminika; PRED: Antihistaministen
+	SG: Königsschloß; PL: Königsschlösser; PRED: Königsschlösschlösser
+	SG: Stracciatella; PL: Stracciatelle; PRED: Stracchiaten
+	SG: Obazda; PL: Obazden; PRED: Obazi
+	SG: Sexta; PL: Sexten; PRED: Sexte
+	SG: Faktum; PL: Fakta; PRED: Fakten
+	SG: Optimum; PL: Optima; PRED: Optimis
+	SG: Abecedarium; PL: Abecedarien; PRED: Abeces

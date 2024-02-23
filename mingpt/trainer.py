@@ -20,7 +20,7 @@ class Trainer:
         # dataloder parameters
         C.num_workers = 4
         # optimizer parameters
-        C.max_iters = 10_000 #TODO adjust
+        C.max_iters = 10_000 #TODO adjust using cross-validation 
         C.batch_size = 64
         C.learning_rate = 3e-4
         C.betas = (0.9, 0.95)
@@ -37,8 +37,7 @@ class Trainer:
 
         # determine the device we'll train on
         if config.device == 'auto':
-            #self.device = 'cuda' if torch.cuda.is_available() else 'cpu'
-            self.device = 'mps'
+            self.device = 'cuda' if torch.cuda.is_available() else 'mps'
         else:
             self.device = config.device
         self.model = self.model.to(self.device)
